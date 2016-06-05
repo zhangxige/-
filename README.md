@@ -8,7 +8,7 @@ c++实现java中特定字符串转换函数:
 5.每个字符之间以“_”分隔
 例如:
 24ab_2t2  经过转化为
-444_aaaaa_b_\UL_ttt_t_2
+444_aaaaa_a_b_\UL_ttt_t_2
 完成该变换及其逆变换
 String code(const String input){
             return input;
