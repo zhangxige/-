@@ -64,7 +64,7 @@ int main()
 	const string a("24ab_2t2");
 	const string b("444_aaaaa_a_b_\\UL_ttt_t_2");
 	code(a);
-    decode(b);
+    	decode(b);
 	system("pause");
 	return 0;
 }
